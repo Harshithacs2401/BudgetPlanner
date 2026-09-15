@@ -1,0 +1,119 @@
+BUDGETPLANNER EDA REPORT
+======================================================================
+
+Rows: 20000
+Columns: 27
+
+COLUMNS
+----------------------------------------------------------------------
+income: float64
+age: int64
+dependents: int64
+occupation: object
+city_tier: object
+rent: float64
+loan_repayment: float64
+insurance: float64
+groceries: float64
+transport: float64
+eating_out: float64
+entertainment: float64
+utilities: float64
+healthcare: float64
+education: float64
+miscellaneous: float64
+desired_savings_percentage: float64
+desired_savings: float64
+disposable_income: float64
+potential_savings_groceries: float64
+potential_savings_transport: float64
+potential_savings_eating_out: float64
+potential_savings_entertainment: float64
+potential_savings_utilities: float64
+potential_savings_healthcare: float64
+potential_savings_education: float64
+potential_savings_miscellaneous: float64
+
+MISSING VALUES
+----------------------------------------------------------------------
+income: 0.0 (0.00%)
+age: 0.0 (0.00%)
+dependents: 0.0 (0.00%)
+occupation: 0.0 (0.00%)
+city_tier: 0.0 (0.00%)
+rent: 0.0 (0.00%)
+loan_repayment: 0.0 (0.00%)
+insurance: 0.0 (0.00%)
+groceries: 0.0 (0.00%)
+transport: 0.0 (0.00%)
+eating_out: 0.0 (0.00%)
+entertainment: 0.0 (0.00%)
+utilities: 0.0 (0.00%)
+healthcare: 0.0 (0.00%)
+education: 0.0 (0.00%)
+miscellaneous: 0.0 (0.00%)
+desired_savings_percentage: 0.0 (0.00%)
+desired_savings: 0.0 (0.00%)
+disposable_income: 0.0 (0.00%)
+potential_savings_groceries: 0.0 (0.00%)
+potential_savings_transport: 0.0 (0.00%)
+potential_savings_eating_out: 0.0 (0.00%)
+potential_savings_entertainment: 0.0 (0.00%)
+potential_savings_utilities: 0.0 (0.00%)
+potential_savings_healthcare: 0.0 (0.00%)
+potential_savings_education: 0.0 (0.00%)
+potential_savings_miscellaneous: 0.0 (0.00%)
+
+POTENTIAL FINANCIAL FEATURES
+----------------------------------------------------------------------
+income
+rent
+loan_repayment
+insurance
+groceries
+transport
+eating_out
+entertainment
+utilities
+healthcare
+education
+miscellaneous
+desired_savings_percentage
+desired_savings
+disposable_income
+potential_savings_groceries
+potential_savings_transport
+potential_savings_eating_out
+potential_savings_entertainment
+potential_savings_utilities
+potential_savings_healthcare
+potential_savings_education
+potential_savings_miscellaneous
+
+OUTLIER SUMMARY
+----------------------------------------------------------------------
+income: 1254 (6.27%)
+age: 0 (0.00%)
+dependents: 0 (0.00%)
+rent: 1320 (6.60%)
+loan_repayment: 1880 (9.40%)
+insurance: 1375 (6.88%)
+groceries: 1227 (6.13%)
+transport: 1261 (6.30%)
+eating_out: 1325 (6.62%)
+entertainment: 1324 (6.62%)
+utilities: 1291 (6.46%)
+healthcare: 1294 (6.47%)
+education: 1159 (5.79%)
+miscellaneous: 1348 (6.74%)
+desired_savings_percentage: 789 (3.94%)
+desired_savings: 1303 (6.51%)
+disposable_income: 1341 (6.71%)
+potential_savings_groceries: 1401 (7.00%)
+potential_savings_transport: 1395 (6.98%)
+potential_savings_eating_out: 1431 (7.16%)
+potential_savings_entertainment: 1453 (7.27%)
+potential_savings_utilities: 1383 (6.92%)
+potential_savings_healthcare: 1417 (7.08%)
+potential_savings_education: 1347 (6.73%)
+potential_savings_miscellaneous: 1471 (7.36%)

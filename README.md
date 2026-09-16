@@ -4,13 +4,13 @@
 
 ## Features
 
-* 📊 Financial data preprocessing
-* 🔍 Exploratory Data Analysis (EDA)
-* 🤖 Machine Learning regression
-* 📈 Model evaluation using MAE, RMSE, and R²
-* 💾 Model saving with Joblib
-* 🔮 Financial prediction
-* 💰 Priority-based budget planning
+*  Financial data preprocessing
+*  Exploratory Data Analysis (EDA)
+*  Machine Learning regression
+*  Model evaluation using MAE, RMSE, and R²
+*  Model saving with Joblib
+*  Financial prediction
+*  Priority-based budget planning
 
 ## ML Workflow
 

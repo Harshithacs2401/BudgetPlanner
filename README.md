@@ -2,7 +2,7 @@
 
 **BudgetPlanner** is a Python-based personal finance project that combines **budget planning, data analysis, and machine learning** to analyze financial patterns and generate savings-related predictions.
 
-## 🚀 Features
+## Features
 
 * 📊 Financial data preprocessing
 * 🔍 Exploratory Data Analysis (EDA)
@@ -12,7 +12,7 @@
 * 🔮 Financial prediction
 * 💰 Priority-based budget planning
 
-## 🧠 ML Workflow
+## ML Workflow
 
 ```text
 Dataset
@@ -39,7 +39,7 @@ The project compares:
 
 Numerical and categorical features are processed using a Scikit-learn preprocessing pipeline.
 
-## 📊 Dataset
+## Dataset
 
 **Indian Personal Finance and Spending Habits**
 
@@ -47,7 +47,7 @@ The dataset contains approximately **20,000 financial records** covering income,
 
 🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/shriyashjagtap/indian-personal-finance-and-spending-habits)
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 BudgetPlanner/
@@ -74,7 +74,7 @@ BudgetPlanner/
 └── README.md
 ```
 
-## 🛠️ Technologies
+## Technologies
 
 * Python
 * Pandas
@@ -85,7 +85,7 @@ BudgetPlanner/
 * Joblib
 * Jupyter Notebook
 
-## ▶️ Run
+## Run
 
 Install dependencies:
 
@@ -117,7 +117,7 @@ Run prediction:
 python src/prediction.py
 ```
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 Models are evaluated using:
 
@@ -131,7 +131,7 @@ The best-performing model is saved as:
 models/budget_model.joblib
 ```
 
-# 💻 Example Prediction Input
+# Example Prediction Input
 
 Example financial information:
 
@@ -159,7 +159,7 @@ The model processes these inputs and generates the selected financial prediction
 
 > The exact input fields depend on the feature set defined during model training.
 
-# 🔮 Future Improvements
+# Future Improvements
 
 ### 1. Advanced Machine Learning Models
 
@@ -224,35 +224,35 @@ Budget Recommendation
 Savings Recommendation
 ```
 
-# 📌 Project Status
+# Project Status
 
-🚧 **Under Development**
+ **Under Development**
 
 ### Current Implementation
 
-* ✅ Dataset preprocessing
-* ✅ EDA
-* ✅ Financial feature analysis
-* ✅ ML preprocessing pipeline
-* ✅ Regression model training
-* ✅ Model comparison
-* ✅ Model evaluation
-* ✅ Model persistence
-* ✅ Prediction pipeline
-* ✅ Rule-based budgeting baseline
+*  Dataset preprocessing
+*  EDA
+*  Financial feature analysis
+*  ML preprocessing pipeline
+*  Regression model training
+*  Model comparison
+*  Model evaluation
+*  Model persistence
+*  Prediction pipeline
+*  Rule-based budgeting baseline
 
 ### Planned Improvements
 
-* 🔄 Improved feature selection
-* 🔄 Better target definition
-* 🔄 Hyperparameter optimization
-* 🔄 Model explainability
-* 🔄 Interactive dashboard
-* 🔄 Personalized budget recommendations
+*  Improved feature selection
+*  Better target definition
+*  Hyperparameter optimization
+*  Model explainability
+*  Interactive dashboard
+*  Personalized budget recommendations
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Harshitha CS**
 
